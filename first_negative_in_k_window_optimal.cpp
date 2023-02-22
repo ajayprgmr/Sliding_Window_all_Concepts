@@ -1,3 +1,5 @@
+/* First negative in k size window ,our job to slide the window find first -ve for all window of k lenth*/
+
 #include<bits/stdc++.h>
 // #include "Myutilities.h"
 using namespace std;

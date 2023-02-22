@@ -1,4 +1,4 @@
-/*Actually this question is maximum contigious sum of three lengh. using bruteforce.*/
+/*Actually this question is maximum contigious sum of three length window. using bruteforce.*/
 #include<bits/stdc++.h>
 #include "Myutilities.h"
 using namespace std;

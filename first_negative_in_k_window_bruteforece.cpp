@@ -1,5 +1,6 @@
+/* First negative in k size window ,our job to slide the window find first -ve for all window of k lenth*/
 #include<bits/stdc++.h>
-#include "Myutilities.h"
+// #include "Myutilities.h"
 using namespace std;
 void FIRST_NEGATIVE_IN_K_SIZE_WINDOW(vector<int> &v ,int k){
    int outerloop=v.size()-k;
